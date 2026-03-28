@@ -5,7 +5,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Devi+Madhuri;Data+Engineer+%7C+Cloud+Architect+%7C+AWS;Building+Scalable+Data+Pipelines+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Devi+Madhuri;Data+Engineer+%7C+Cloud+Architect+%7C+AWS" alt="Typing SVG" />
   </a>
 </p>
 <!-- Social Badges -->
@@ -19,7 +19,6 @@
   <a href="https://github.com/DeviMadhuri">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=100000" alt="GitHub"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=DeviMadhuri&style=for-the-badge&color=00D9FF" alt="Profile Views"/>
 </p>
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -186,7 +185,4 @@
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=FFFFFF&animation=twinkling" width="100%"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DeviMadhuri&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
