@@ -24,34 +24,16 @@
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-<pre>
-<code class="language-python">
-class DataEngineer:
-    def __init__(self):
-        self.name = "Devi Madhuri"
-        self.role = "Data Engineer"
-        self.experience = "6+ years"
-        self.location = "India"
-        self.languages = ["Python", "SQL", "Scala"]
-        
-    def get_skills(self):
-        return {
-            "Cloud": ["AWS", "Databricks", "Azure"],
-            "Big_Data": ["PySpark", "Hadoop", "Kafka"],
-            "Databases": ["PostgreSQL", "Redshift", "Cassandra", "MongoDB"],
-            "Tools": ["Airflow", "Terraform", "dbt", "Docker"],
-            "Streaming": ["Spark Streaming", "Kinesis"]
-        }
-    
-    def current_focus(self):
-        return "Building Lakehouse Architectures & Real-time Data Pipelines"
-    
-    def life_philosophy(self):
-        return "Data is the new oil, but only when refined!"
 
-me = DataEngineer()
-</code>
-</pre>
+- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Role:** Data Engineer &nbsp;|&nbsp; 📅 **Experience:** 6 years &nbsp;|&nbsp; 📍 **Location:** India
+- 💬 **Languages:** Python · SQL · Scala
+- ☁️ **Cloud:** AWS · Databricks · Azure
+- 🔥 **Big Data:** PySpark · Hadoop · Kafka
+- 🗄️ **Databases:** PostgreSQL · Redshift · MongoDB
+- 🛠️ **Tools:** Airflow · Terraform · dbt · Docker
+- ⚡ **Streaming:** Spark Streaming · Kinesis
+- 🎯 **Current Focus:** Building Lakehouse Architectures & Real-time Data Pipelines
+
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
