@@ -1,11 +1,11 @@
 <!-- Custom Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeviMadhuri/DeviMadhuri/main/github-header.png" alt="Devi Madhuri - Data Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DeviMadhuri/DeviMadhuri/main/assets/github-header.png" alt="Devi Madhuri - Data Engineer" width="100%"/>
 </p>
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Devi+Madhuri;Data+Engineer+%7C+Cloud+Architect+%7C+Problem+Solver;Building+Scalable+Data+Pipelines+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Devi+Madhuri;Data+Engineer+%7C+Cloud+Architect+%7C+AWS;Building+Scalable+Data+Pipelines+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 <!-- Social Badges -->
@@ -25,14 +25,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Role:** Data Engineer &nbsp;|&nbsp; 📅 **Experience:** 6 years &nbsp;|&nbsp; 📍 **Location:** Chicago, IL
+- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Role:** Data Engineer &nbsp;|&nbsp; 📅 **Experience:** 6+ years &nbsp;|&nbsp; 📍 **Location:** Chicago, IL
 - 💬 **Languages:** Python · SQL · Scala
 - ☁️ **Cloud:** AWS · Databricks · Azure
 - 🔥 **Big Data:** PySpark · Hadoop · Kafka
-- 🗄️ **Databases:** PostgreSQL · Redshift · MongoDB
+- 🗄️ **Databases:** PostgreSQL · Redshift · Cassandra · MongoDB
 - 🛠️ **Tools:** Airflow · Terraform · dbt · Docker
 - ⚡ **Streaming:** Spark Streaming · Kinesis
 - 🎯 **Current Focus:** Building Lakehouse Architectures & Real-time Data Pipelines
+- 💡 **Philosophy:** *"Data is the new oil, but only when refined!"*
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -48,6 +49,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark"/>
 </p>
 🔧 Big Data & Processing
 <p align="left">
