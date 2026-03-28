@@ -33,7 +33,6 @@
 - 🛠️ **Tools:** Airflow · Terraform · dbt · Docker
 - ⚡ **Streaming:** Spark Streaming · Kinesis
 - 🎯 **Current Focus:** Building Lakehouse Architectures & Real-time Data Pipelines
-- 💡 **Philosophy:** *"Data is the new oil, but only when refined!"*
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
