@@ -165,6 +165,17 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Hobbies & Interests
+
+<p align="left">
+  <img src="https://img.shields.io/badge/🎨_Painting-FF6B6B?style=for-the-badge&logoColor=white" alt="Painting"/>
+  <img src="https://img.shields.io/badge/✍️_Hand--Lettering-F7B731?style=for-the-badge&logoColor=white" alt="Hand Lettering"/>
+  <img src="https://img.shields.io/badge/🖼️_Canvas_Art-A29BFE?style=for-the-badge&logoColor=white" alt="Canvas Art"/>
+  <img src="https://img.shields.io/badge/🤖_AI_&_LLMs-00D9FF?style=for-the-badge&logoColor=black" alt="AI LLMs"/>
+</p>
+
+<!-- Animated Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect!
 <p align="center">
   <a href="https://www.linkedin.com/in/devi-madhuri1205/">
