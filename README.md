@@ -1,6 +1,6 @@
 <!-- Custom Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeviMadhuri/DeviMadhuri/main/assets/github-header.png" alt="Devi Madhuri - Data Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DeviMadhuri/DeviMadhuri/main/github-header.png" alt="Devi Madhuri - Data Engineer" width="100%"/>
 </p>
 <!-- Typing Animation -->
 <p align="center">
@@ -25,7 +25,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Role:** Data Engineer &nbsp;|&nbsp; 📅 **Experience:** 6 years &nbsp;|&nbsp; 📍 **Location:** India
+- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Role:** Data Engineer &nbsp;|&nbsp; 📅 **Experience:** 6+ years &nbsp;|&nbsp; 📍 **Location:** Chicago, IL
 - 💬 **Languages:** Python · SQL · Scala
 - ☁️ **Cloud:** AWS · Databricks · Azure
 - 🔥 **Big Data:** PySpark · Hadoop · Kafka
@@ -42,14 +42,13 @@
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
 </p>
 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark"/>
 </p>
 🔧 Big Data & Processing
 <p align="left">
@@ -166,15 +165,6 @@
 </table>
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="35"> GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeviMadhuri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeviMadhuri&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF9900&currStreakLabel=00D9FF" alt="GitHub Streak" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeviMadhuri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" width="48%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviMadhuri&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph" width="48%"/>
-</p>
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect!
@@ -189,6 +179,10 @@
   &nbsp;
   <a href="https://github.com/DeviMadhuri">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/artspotbymadhu/">
+    <img src="https://img.shields.io/badge/Art_@artspotbymadhu-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Art"/>
   </a>
 </p>
 <p align="center">
