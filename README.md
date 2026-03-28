@@ -1,6 +1,6 @@
 <!-- Custom Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeviMadhuri/DeviMadhuri/main/github-header.png" alt="Devi Madhuri - Data Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DeviMadhuri/DeviMadhuri/main/assets/github-header.png" alt="Devi Madhuri - Data Engineer" width="100%"/>
 </p>
 <!-- Typing Animation -->
 <p align="center">
@@ -24,8 +24,8 @@
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
-Python
-Copy
+<pre>
+<code class="language-python">
 class DataEngineer:
     def __init__(self):
         self.name = "Devi Madhuri"
@@ -33,7 +33,7 @@ class DataEngineer:
         self.experience = "6+ years"
         self.location = "India"
         self.languages = ["Python", "SQL", "Scala"]
-
+        
     def get_skills(self):
         return {
             "Cloud": ["AWS", "Databricks", "Azure"],
@@ -47,9 +47,11 @@ class DataEngineer:
         return "Building Lakehouse Architectures & Real-time Data Pipelines"
     
     def life_philosophy(self):
-        return "Data is the new oil, but only when refined! 🛢️➡️💎"
+        return "Data is the new oil, but only when refined!"
 
 me = DataEngineer()
+</code>
+</pre>
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
@@ -58,6 +60,7 @@ me = DataEngineer()
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="GCP"/>
 </p>
 💻 Languages
 <p align="left">
@@ -208,10 +211,6 @@ me = DataEngineer()
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%91%8B&fontSize=24&fontColor=FFFFFF&animation=twinkling" width="100%"/>
-</p>
-<!-- Footer Quote -->
-<p align="center">
-  <i>"Data is the new oil, but like oil, it's only valuable when refined."</i> ⛽💎
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeviMadhuri&color=00D9FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
