@@ -25,7 +25,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
 
-- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Role:** Data Engineer &nbsp;|&nbsp; 📅 **Experience:** 6+ years &nbsp;|&nbsp; 📍 **Location:** Chicago, IL
+- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Role:** Data Engineer &nbsp;|&nbsp; 📅 **Experience:** 6 years &nbsp;|&nbsp; 📍 **Location:** Chicago, IL
 - 💬 **Languages:** Python · SQL · Scala
 - ☁️ **Cloud:** AWS · Databricks · Azure
 - 🔥 **Big Data:** PySpark · Hadoop · Kafka
@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala"/>
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" alt="PySpark"/>
 </p>
 🔧 Big Data & Processing
 <p align="left">
