@@ -169,7 +169,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/🎨_Painting-FF6B6B?style=for-the-badge&logoColor=white" alt="Painting"/>
-  <img src="https://img.shields.io/badge/✍️_Hand--Lettering-F7B731?style=for-the-badge&logoColor=white" alt="Hand Lettering"/>
   <img src="https://img.shields.io/badge/🖼️_Canvas_Art-A29BFE?style=for-the-badge&logoColor=white" alt="Canvas Art"/>
   <img src="https://img.shields.io/badge/🤖_AI_&_LLMs-00D9FF?style=for-the-badge&logoColor=black" alt="AI LLMs"/>
 </p>
