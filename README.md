@@ -28,14 +28,14 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Roles:** Data Engineer & AI/ML Developer &nbsp;|&nbsp; 📅 **Experience:** 6+ years &nbsp;|&nbsp; 📍 **Location:** Chicago, IL
+- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Roles:** Data Engineer & AI/ML Developer &nbsp;|&nbsp; 📅 **Experience:** 5+ years &nbsp;|&nbsp; 📍 **Location:** Chicago, IL
 - 💬 **Languages:** Python · SQL · Scala · JavaScript
 - ☁️ **Cloud:** AWS · Databricks · Azure
 - 🔥 **Big Data:** PySpark · Hadoop · Kafka
 - 🗄️ **Databases:** PostgreSQL · Redshift · Cassandra · MongoDB
 - 🛠️ **Tools:** Airflow · Terraform · dbt · Docker
 - ⚡ **Streaming:** Spark Streaming · Kinesis
-- 🤖 **AI/ML & LLM:** RAG · LangChain · Hugging Face · OpenAI · Claude · Prompt Engineering · Fine-tuning
+- 🤖 **AI/ML & LLM:** RAG · LangChain · Hugging Face · OpenAI · Claude · Prompt Engineering 
 - 🎯 **Current Focus:** Building Lakehouse Architectures, Real-time Data Pipelines & RAG-based AI Applications
 
 <!-- Animated Line -->
