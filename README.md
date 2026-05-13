@@ -1,12 +1,12 @@
 <!-- Custom Header Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DeviMadhuri/DeviMadhuri/main/github-header.png" alt="Devi Madhuri - Data Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/DeviMadhuri/DeviMadhuri/main/github-header.png" alt="Devi Madhuri - Data Engineer & AI Enthusiast" width="100%"/>
 </p>
 
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+Welcome+to+my+GitHub!;Data+Engineer+%7C+6%2B+Years+Experience;Building+Scalable+Data+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+Welcome+to+my+GitHub!;Data+Engineer+%7C+AI+%26+LLM+Enthusiast;Building+Scalable+Data+%26+AI+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,14 +28,15 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Role:** Data Engineer &nbsp;|&nbsp; 📅 **Experience:** 6 years &nbsp;|&nbsp; 📍 **Location:** Chicago, IL
-- 💬 **Languages:** Python · SQL · Scala
+- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Roles:** Data Engineer & AI/ML Developer &nbsp;|&nbsp; 📅 **Experience:** 6+ years &nbsp;|&nbsp; 📍 **Location:** Chicago, IL
+- 💬 **Languages:** Python · SQL · Scala · JavaScript
 - ☁️ **Cloud:** AWS · Databricks · Azure
 - 🔥 **Big Data:** PySpark · Hadoop · Kafka
 - 🗄️ **Databases:** PostgreSQL · Redshift · Cassandra · MongoDB
 - 🛠️ **Tools:** Airflow · Terraform · dbt · Docker
 - ⚡ **Streaming:** Spark Streaming · Kinesis
-- 🎯 **Current Focus:** Building Lakehouse Architectures & Real-time Data Pipelines
+- 🤖 **AI/ML & LLM:** RAG · LangChain · Hugging Face · OpenAI · Claude · Prompt Engineering · Fine-tuning
+- 🎯 **Current Focus:** Building Lakehouse Architectures, Real-time Data Pipelines & RAG-based AI Applications
 
 <!-- Animated Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -54,6 +55,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 ### 🔧 Big Data & Processing
@@ -81,6 +83,17 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</p>
+
+### 🤖 AI/ML & LLM Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/RAG-00D9FF?style=flat-square&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
 </p>
 
 <!-- Animated Line -->
@@ -173,6 +186,48 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 RAG & LLM Applications</h3>
+      <p align="center">
+        <a href="https://github.com/DeviMadhuri?tab=repositories&q=rag+llm+ai">
+          <img src="https://img.shields.io/badge/View_Projects-00D9FF?style=for-the-badge&logo=github&logoColor=black" alt="View Projects"/>
+        </a>
+      </p>
+      <p>
+        Advanced AI/ML projects leveraging LLMs:
+        <br>• Retrieval-Augmented Generation (RAG) systems
+        <br>• LangChain & Hugging Face integration
+        <br>• Prompt engineering & fine-tuning
+        <br>• Semantic search & knowledge bases
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🧠 Machine Learning & NLP</h3>
+      <p align="center">
+        <a href="https://github.com/DeviMadhuri?tab=repositories&q=ml+nlp+ai">
+          <img src="https://img.shields.io/badge/View_Projects-FF6F00?style=for-the-badge&logo=github&logoColor=white" alt="View Projects"/>
+        </a>
+      </p>
+      <p>
+        ML and NLP projects with modern frameworks:
+        <br>• Deep learning with PyTorch & TensorFlow
+        <br>• NLP pipelines & transformers
+        <br>• Model training & evaluation
+        <br>• End-to-end ML pipelines
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <!-- Animated Line -->
@@ -184,6 +239,7 @@
   <img src="https://img.shields.io/badge/🎨_Painting-FF6B6B?style=for-the-badge&logoColor=white" alt="Painting"/>
   <img src="https://img.shields.io/badge/🖼️_Canvas_Art-A29BFE?style=for-the-badge&logoColor=white" alt="Canvas Art"/>
   <img src="https://img.shields.io/badge/🤖_AI_&_LLMs-00D9FF?style=for-the-badge&logoColor=black" alt="AI LLMs"/>
+  <img src="https://img.shields.io/badge/📚_Learning_New_Tech-4CAF50?style=for-the-badge&logoColor=white" alt="Learning"/>
 </p>
 
 <!-- Animated Line -->
