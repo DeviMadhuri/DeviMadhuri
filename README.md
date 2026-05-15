@@ -32,7 +32,7 @@
 - 💬 **Languages:** Python · SQL · Scala · JavaScript
 - ☁️ **Cloud:** AWS · Databricks · Azure
 - 🔥 **Big Data:** PySpark · Hadoop · Kafka
-- 🗄️ **Databases:** PostgreSQL · Redshift · Cassandra · MongoDB
+- 🗄️ **Databases:** PostgreSQL · Redshift · snowflake · MongoDB
 - 🛠️ **Tools:** Airflow · Terraform · dbt · Docker
 - ⚡ **Streaming:** Spark Streaming · Kinesis
 - 🤖 **AI/ML & LLM:** RAG · LangChain · Hugging Face · OpenAI · Claude · Prompt Engineering 
