@@ -28,7 +28,7 @@
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me**
 
-- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Roles:** Data Engineer & AI/ML Developer &nbsp;|&nbsp; 📅 **Experience:** 5+ years &nbsp;|&nbsp; 📍 **Location:** Chicago, IL
+- 👩‍💻 **Name:** Devi Madhuri &nbsp;|&nbsp; 🔧 **Roles:** Data Engineer & AI/ML Developer &nbsp;|&nbsp; 📅 **Experience:** 4+ years &nbsp;|&nbsp; 📍 **Location:** Dallas, TX
 - 💬 **Languages:** Python · SQL · Scala · JavaScript
 - ☁️ **Cloud:** AWS · Databricks · Azure
 - 🔥 **Big Data:** PySpark · Hadoop · Kafka
